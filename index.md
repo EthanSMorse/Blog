@@ -2,4 +2,4 @@
 
 I am program :)
 
-![A professional photo](HEKLP.jpg)
+![A professional photo](/assets/HEKLP.jpg)
