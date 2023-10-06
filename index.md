@@ -1,6 +1,6 @@
 # Welcome!
 
-I am program :)
+My name is Ethan Morse, and this is my blog! Here, youll find the processes that I go through 
 
 <br>
 
@@ -9,7 +9,7 @@ I am program :)
 <ul>
     {% for post in site.posts %}
         <li>
-            <a href="/blog{{ post.url }}">{{ post.title }}</a>
+            <a href="/Blog{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
 </ul>
