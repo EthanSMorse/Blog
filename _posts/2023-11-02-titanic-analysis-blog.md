@@ -175,4 +175,24 @@ This could be another explanation as to why those in first class had significant
 
 <br>
 
+Lastly, I wanted to check the overall average amount paid by those who died vs those who survived. This was just to solidify the idea that those who paid more were more likely to survive.
+
+<br>
+
 ![Graph for question 3: ](/assets/output3.png)
+
+<br>
+
+And, as the graph shows, this still rings true. The amount paid by survivors is more than double than that of those who died. This, while showing the simple fact that money buys benefits, also shows how different the world was back then.
+
+People nowadays would be absolutely outraged that those who paid less were more likely to die, most likely saying that it was unfair or built against people with less money. It just goes to show how different things become over time.
+
+<br>
+
+## Conclusion
+
+<br>
+
+To conclude, the data mostly shows how, at least back in the 1900's, money could be the difference between life and death.
+
+You can review the code that was used to make the graphs here: https://github.com/EthanSMorse/Unit-2-Data-Science/blob/main/titanic_questions.ipynb
