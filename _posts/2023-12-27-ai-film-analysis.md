@@ -18,10 +18,12 @@ Then, there is the much more recognized future of A.I. take over. In the movie, 
 
 ## Human A.I. Interaction:
 
+But not everything this movie suggests is a bad thing. When WALL-E gets onto the ship, he ends up crossing paths with two different humans by complete accident, and also for a very brief time. However, within this brief moment, he makes almost instant friends with these two humans.
 
+This can have relatively good implications for our future, where, if we end up developing A.I. capable of comlpex emitions, human-A.I. relationships may be possible. It would be nice to be able to make friends with A.I., but this, unfortunately, does not even come close to outweighing the risks.
 
 ## AI's Role in Society:
 
-But, like I wrote earlier, we must take care to not rely on A.I. too much. 
+While A.I. may have the benefit of making our daily lives much easier, along with the potential for human-A.I. relationships, we must still keep in mind that things becoming too easy is likely to start the develoution of the human race. The only way we can maintain our self-sufficient nature is by actually doing things for ourselves.
 
-A perfect example of this is shown
+But, at this point in time, we cant really be sure that we will even make it this far is A.I. technology. The story and technologies of WALL-E are almost a fantasy at our current point and pace. All in all, these questions will simply have to be answered when it comes time to answer them.
