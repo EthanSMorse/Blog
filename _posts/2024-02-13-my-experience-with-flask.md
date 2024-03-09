@@ -24,5 +24,16 @@ When learning Flask, I had access to multiple resources:
 
 However, of these resources, the one that worked the best for me was most certainly the documentation. Simply by going to the site, you can get an overview of all of Flask's capabilities, commands, and main uses. It helped whenever I didn't know what to put for a specific thing to happen, and whenever I had some sort of error (which was very usually something simple).
 
+<br>
+
 ![Image of Flask documentation](/assets/flask.png)
 
+<br>
+
+## Challenges & Learnings
+
+Naturally, when learning something new, you are bound to make mistakes. This was no different from my experience, where I came across multiple problems in setting up my first Flask application.
+
+Of these problems, one of the most common was that of mismatched names for requesting forms. Here, I got an error when the name I put on an HTML form did not match with a request I made on my python file.
+
+![Image of a key error](/assets/error.png)
