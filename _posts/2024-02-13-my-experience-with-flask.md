@@ -37,3 +37,8 @@ Naturally, when learning something new, you are bound to make mistakes. This was
 Of these problems, one of the most common was that of mismatched names for requesting forms. Here, I got an error when the name I put on an HTML form did not match with a request I made on my python file.
 
 ![Image of a key error](/assets/error.png)
+
+Another problem that I would run into on occasion would be that of database integration. Here, I kept on making mistakes in my SQL code when trying to send and recieve info from my jinja files. SQL can be relatively easy to use, but this was yet another thing that I was not very knowledgable on at the time.
+
+![Image of a invalid request](/assets/badrequest.png)
+
